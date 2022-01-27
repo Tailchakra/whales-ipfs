@@ -1,0 +1,36 @@
+{
+  "tokenId": 1641,
+  "name": "Harmony Whales #1641",
+  "description": "2250 uniquely generated Harmony Whales that are special and united in Harmony!",
+  "image": "https://api.harmonywhales.com/images/1641",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bronzed"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open One Teeth"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "White"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sprout"
+    }
+  ]
+}

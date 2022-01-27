@@ -1,0 +1,36 @@
+{
+  "tokenId": 1714,
+  "name": "Harmony Whales #1714",
+  "description": "2250 uniquely generated Harmony Whales that are special and united in Harmony!",
+  "image": "https://api.harmonywhales.com/images/1714",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shiny Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open No Teeth"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Suspicious"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk"
+    }
+  ]
+}

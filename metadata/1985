@@ -1,0 +1,36 @@
+{
+  "tokenId": 1985,
+  "name": "Harmony Whales #1985",
+  "description": "2250 uniquely generated Harmony Whales that are special and united in Harmony!",
+  "image": "https://api.harmonywhales.com/images/1985",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bronzed"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shiny Lime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed (Mirrored)"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "White (Mirrored)"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Unicorn (Mirrored)"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk White (Mirrored)"
+    }
+  ]
+}

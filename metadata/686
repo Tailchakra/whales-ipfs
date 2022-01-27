@@ -1,0 +1,36 @@
+{
+  "tokenId": 686,
+  "name": "Harmony Whales #686",
+  "description": "2250 uniquely generated Harmony Whales that are special and united in Harmony!",
+  "image": "https://api.harmonywhales.com/images/686",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pitch"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink (Mirrored)"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open No Teeth (Mirrored)"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Bold (Mirrored)"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Angel Wing (Mirrored)"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk White (Mirrored)"
+    }
+  ]
+}
